@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Camada de Apresentação", "1. Camada de Apresentação", "{0C1B3993-8D3B-44EC-AE55-3C3F901F6A1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Camada de Dominio", "3. Camada de Dominio", "{40AF8EB8-0CF9-402C-ACC0-A7248B7C26A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Camada de Aplicação", "2. Camada de Aplicação", "{87CFBD9D-72EC-4EF7-B538-D526F6A6F07C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Camada de Infraestrutura", "4. Camada de Infraestrutura", "{87C2E956-779D-4240-8510-0AFCBCBCBBEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{94767639-6154-4367-9F91-DF0807CD5BE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniplac.AvaliacaoFinal.Infra.Dados", "Uniplac.Avaliacao.Infra.Dados\Uniplac.AvaliacaoFinal.Infra.Dados.csproj", "{F33DB326-E408-47E4-8C46-BED8C8D71955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniplac.AvaliacaoFinal.Testes", "Uniplac.Avaliacao.Testes\Uniplac.AvaliacaoFinal.Testes.csproj", "{471BB190-FB2C-4D4E-835C-25E8ADD12D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniplac.AvaliacaoFinal.Dominio", "Uniplac.Avaliacao.Dominio\Uniplac.AvaliacaoFinal.Dominio.csproj", "{2295920C-DAA7-4937-901D-09C99AECF9C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhoFinal.ApresentacaoWeb", "TrabalhoFinal.ApresentacaoWeb\TrabalhoFinal.ApresentacaoWeb.csproj", "{20B234ED-4DE5-46A7-8FC6-64A8D1A6EEA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33DB326-E408-47E4-8C46-BED8C8D71955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33DB326-E408-47E4-8C46-BED8C8D71955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33DB326-E408-47E4-8C46-BED8C8D71955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33DB326-E408-47E4-8C46-BED8C8D71955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471BB190-FB2C-4D4E-835C-25E8ADD12D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471BB190-FB2C-4D4E-835C-25E8ADD12D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471BB190-FB2C-4D4E-835C-25E8ADD12D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471BB190-FB2C-4D4E-835C-25E8ADD12D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2295920C-DAA7-4937-901D-09C99AECF9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2295920C-DAA7-4937-901D-09C99AECF9C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2295920C-DAA7-4937-901D-09C99AECF9C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2295920C-DAA7-4937-901D-09C99AECF9C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B234ED-4DE5-46A7-8FC6-64A8D1A6EEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B234ED-4DE5-46A7-8FC6-64A8D1A6EEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B234ED-4DE5-46A7-8FC6-64A8D1A6EEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B234ED-4DE5-46A7-8FC6-64A8D1A6EEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F33DB326-E408-47E4-8C46-BED8C8D71955} = {87C2E956-779D-4240-8510-0AFCBCBCBBEC}
+		{471BB190-FB2C-4D4E-835C-25E8ADD12D55} = {94767639-6154-4367-9F91-DF0807CD5BE3}
+		{2295920C-DAA7-4937-901D-09C99AECF9C4} = {40AF8EB8-0CF9-402C-ACC0-A7248B7C26A2}
+		{20B234ED-4DE5-46A7-8FC6-64A8D1A6EEA2} = {0C1B3993-8D3B-44EC-AE55-3C3F901F6A1D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {165C80E4-6F62-4AA4-98B0-A14782CA28F3}
+	EndGlobalSection
+EndGlobal

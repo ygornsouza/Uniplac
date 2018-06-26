@@ -1,0 +1,12 @@
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Infra.Dados.dll.config
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Infra.Dados.dll
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Infra.Dados.pdb
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.dll
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.xml
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.AvaliacaoFinal.Infra.Dados.csprojResolveAssemblyReference.cache
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.Avaliacao.Infra.Dados.dll
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Infra.Dados\obj\Debug\Uniplac.Avaliacao.Infra.Dados.pdb

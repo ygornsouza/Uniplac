@@ -1,0 +1,5 @@
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Dominio\bin\Debug\Uniplac.Avaliacao.Dominio.pdb
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.AvaliacaoFinal.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.dll
+C:\Users\Ygor\Documents\UniplacRepositorio\Uniplac.AvaliacaoFinal\Uniplac.Avaliacao.Dominio\obj\Debug\Uniplac.Avaliacao.Dominio.pdb
